@@ -156,6 +156,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -203,9 +204,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-	<Content Include="Config\**\*.*">
-	  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-	</Content>
+    <Content Include="Config\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Utility\**\*.*">
