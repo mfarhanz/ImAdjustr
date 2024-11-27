@@ -10,10 +10,11 @@ Designed to use minimal resources while keeping user satisfaction the priority, 
 - Multi-layer editing
 - Batch processing
 <br>
-
-To get the latest version of the software, see [Releases](https://github.com/mfarhanz/ImAdjustr/releases).  
 <br>
 ![ImAdjustr](https://github.com/mfarhanz/ImAdjustr/blob/main/Assets/preview.png)  
+<br>
+
+To get the latest version of the software, see [Releases](https://github.com/mfarhanz/ImAdjustr/releases).  
 
 
 =============================================================
