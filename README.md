@@ -11,7 +11,9 @@ Designed to use minimal resources while keeping user satisfaction the priority, 
 - Batch processing
 <br>
 <br>
+
 ![ImAdjustr](https://github.com/mfarhanz/ImAdjustr/blob/main/Assets/preview.png)  
+
 <br>
 
 To get the latest version of the software, see [Releases](https://github.com/mfarhanz/ImAdjustr/releases).  
