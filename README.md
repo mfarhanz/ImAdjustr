@@ -10,7 +10,6 @@ Designed to use minimal resources while keeping user satisfaction the priority, 
 - Multi-layer editing
 - Batch processing
 <br>
-<br>
 
 ![ImAdjustr](https://github.com/mfarhanz/ImAdjustr/blob/main/Assets/preview.png)  
 
