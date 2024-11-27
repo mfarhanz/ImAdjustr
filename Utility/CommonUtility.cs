@@ -95,7 +95,7 @@ namespace ImAdjustr.Utility {
             }
         }
 
-        public static (int, int) GetAdjustedCoordsOnCanvas(int x, int y, PictureBox canvas) {
+        public static (int, int) GetAdjustedCoordsOnCanvas(int x, int y, PictureBox canvas) {   // TODO: issue when image is zoomed
             // Get the scaled size of the image in the PictureBox
             Size imageSize = canvas.Image.Size;
             Size canvasSize = canvas.ClientSize;
