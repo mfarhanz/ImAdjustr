@@ -10,11 +10,11 @@ Designed to use minimal resources while keeping user satisfaction the priority, 
 - Multi-layer editing
 - Batch processing
 <br>
-<br>
 
 To get the latest version of the software, see [Releases](https://github.com/mfarhanz/ImAdjustr/releases).
 
 =============================================================
+<br>
 <br>
 
 For customizing the application, clone this repository and open it as a project in Visual Studio.
