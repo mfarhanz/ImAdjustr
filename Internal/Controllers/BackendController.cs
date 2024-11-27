@@ -94,7 +94,7 @@ namespace ImAdjustr.Internal.Controllers {
             Process getPackages = RunPythonScript("-m pip list");
             getPackages.WaitForExit();
             string packages = getPackages.StandardOutput.ReadToEnd();
-            List<string> required = new List<string> { "pillow", "numpy", "numba", "Flask", "waitress" };
+            List<string> required = new List<string> { "pillow", "numpy", "numba", "Flask", "waitress", "filterkit"};
             return required.All(package => packages.Contains(package));
         }
 
