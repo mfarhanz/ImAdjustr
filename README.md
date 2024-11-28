@@ -16,6 +16,8 @@ Designed to use minimal resources while keeping user satisfaction the priority, 
 <br>
 
 To get the latest version of the software, see [Releases](https://github.com/mfarhanz/ImAdjustr/releases).  
+  
+`⚠` This application is under development, and of current, all features may not be available yet.  
 
 
 =============================================================
